@@ -7,7 +7,7 @@
               <div class="card bg-primary text-light">
                 <div class="card-body">
                   <h5 class="card-title">{{$upcomingTasks->count()}}</h5>
-                  <p class="card-text">Upcoming Task</p>
+                  <p class="card-text">Upcoming</p>
                 </div>
               </div>
             </div>
